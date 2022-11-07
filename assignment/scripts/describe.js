@@ -26,7 +26,7 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// the code is stating that number is worth a value of 1 on the next line we are adding 1 to that value then on the last line we are printing yes if the number is greater than or equal to 2
+// The code is stating that number is worth a value of 1. On the next line we are adding 1 to that value. On the last line we are printing yes if the number is greater than or equal to 2. The console log would print yes.
 // 
 // 
 //
@@ -46,7 +46,7 @@ if (name === 'Mary') {
 
 // 2. WRITE YOUR DESCRIPTION HERE
 // 
-// in this block we are stating that name is equal to the value 'dane' then underneath we have a conditional that states if name is equal to 'mary' print hi mary, if it is not print how do you do.
+// In this block we are stating that name is equal to the value 'dane' then underneath we have a conditional that states if name is equal to 'mary' print hi mary, if it is not print how do you do. The log prints 'how do you do'
 // 
 //
 
@@ -71,7 +71,7 @@ console.log(secret)
 
 // 3. WRITE YOUR DESCRIPTION HERE
 // 
-// 
+// Here we are stating there is a variable named secret. On the next line we establish a variable 'code' and give it a value of 123. We then see an if statement that tells us if 'code' is equal to 123 then ' secret ' is equal to "super" and the value of code is multiplied by two. This is followed by another condition stating that if the value of 'code' is greater than 250 ' secret ' is equal to "duper". Finally we ask it to print secret. Consol log would print 'super'.
 // 
 //
 
