@@ -150,10 +150,13 @@ if (mix === true) {
 let temp = 40;
 const time = 4;
 
+FIX - Instructions call for greater or equal to than time of 4 but the code is showing less than or equal to. "<=" instead of ">="
+
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
 */
+
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
 // We check if age is greater than or equal to minAge 
@@ -162,6 +165,8 @@ if (temp > 39 || time >= 4) {
 /*
 let age = 21;
 const minAge = 21;
+
+Fix - This issue can be fixed by changing 'enter' to the if statement instead of 'no entry'.
 
 if(minAge <= age) {
   console.log('no entry');
