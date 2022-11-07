@@ -26,7 +26,7 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
+// the code is stating that number is worth a value of 1 on the next line we are adding 1 to that value then on the last line we are printing yes if the number is greater than or equal to 2
 // 
 // 
 //
@@ -46,7 +46,7 @@ if (name === 'Mary') {
 
 // 2. WRITE YOUR DESCRIPTION HERE
 // 
-// 
+// in this block we are stating that name is equal to the value 'dane' then underneath we have a conditional that states if name is equal to 'mary' print hi mary, if it is not print how do you do.
 // 
 //
 
