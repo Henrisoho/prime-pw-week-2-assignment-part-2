@@ -26,7 +26,8 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// The code is stating that number is worth a value of 1. On the next line we are adding 1 to that value. On the last line we are printing yes if the number is greater than or equal to 2. The console log would print yes.
+// In this block we are stating that name is equal to the value 'dane' then underneath we have a conditional that states if name is equal to 'mary' print hi mary, if it is not print how do you do. The log prints 'how do you do'
+// 
 // 
 // 
 //
@@ -46,7 +47,7 @@ if (name === 'Mary') {
 
 // 2. WRITE YOUR DESCRIPTION HERE
 // 
-// In this block we are stating that name is equal to the value 'dane' then underneath we have a conditional that states if name is equal to 'mary' print hi mary, if it is not print how do you do. The log prints 'how do you do'
+// Here we are stating there is a variable named secret. On the next line we establish a variable 'code' and give it a value of 123. We then see an if statement that tells us if 'code' is equal to 123 then ' secret ' is equal to "super" and the value of code is multiplied by two. This is followed by another condition stating that if the value of 'code' is greater than 250 ' secret ' is equal to "duper". Finally we ask it to print secret. Consol log would print 'super'.
 // 
 //
 
@@ -71,7 +72,7 @@ console.log(secret)
 
 // 3. WRITE YOUR DESCRIPTION HERE
 // 
-// Here we are stating there is a variable named secret. On the next line we establish a variable 'code' and give it a value of 123. We then see an if statement that tells us if 'code' is equal to 123 then ' secret ' is equal to "super" and the value of code is multiplied by two. This is followed by another condition stating that if the value of 'code' is greater than 250 ' secret ' is equal to "duper". Finally we ask it to print secret. Consol log would print 'super'.
+// Here we are stating there is a variable named isStudents with a value of true. On the next line we establish a variable 'age' and give it a value of 34. finally we create the value 'zip' and give it a value of 55407. We then see an if statement that tells us if isStudents is true and zip is greater than 80000 we will print "You're a student on the West Coast!". If those statements arent true wer are then asking your age is greater than 30, If yes we print "what are your hobbies.". If isStudents is true but the zip is less than 8000 we print "welcome to prime" and finaly if none are true we print "how about the weather. In this case we would print 'welcome to prime'.
 // 
 //
 
@@ -87,7 +88,7 @@ if (isStudent === true && zip > 80000 ) {
   console.log('What are your hobbies?');
 } else if (isStudent === true) {
   console.log('Welcome to Prime!');
-} else {
+} else 
   console.log('How about the weather?')
 }
 
@@ -133,6 +134,8 @@ if (number >= 2) {
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
+
+Fix - colorOne and colorTwo are set to the wrong colors. in the instructions they are switched.
 
 if (mix === true) {
   colorOne = 'purple';
