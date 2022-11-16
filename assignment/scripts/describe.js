@@ -132,7 +132,7 @@ if (number >= 2) {
 
 /*
 let colorOne = 'red';
-let colorTwo = 'blue';
+let colorTwo = 'Purple';
 let mix = true;
 
 Fix - colorOne and colorTwo are set to the wrong colors. in the instructions they are switched.
@@ -152,7 +152,7 @@ const time = 4;
 
 FIX - Instructions call for greater or equal to than time of 4 but the code is showing less than or equal to. "<=" instead of ">="
 
-if (temp > 39 || time >= 4) {
+if (temp > 39 && time >= 4) {
   console.log('throw away the food!');
 }
 */
